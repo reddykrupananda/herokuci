@@ -1,0 +1,17 @@
+{
+  "name": "herokuci",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/salesforce-buildpack"
+    }
+  ]
+}
