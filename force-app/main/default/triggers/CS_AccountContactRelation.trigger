@@ -20,7 +20,7 @@ trigger CS_AccountContactRelation on AccountContactRelation (After Insert,Before
         try{
             update lst_AccountsToUpdate;
         }catch(Exception Ex){
-            //Catch block
+            //Catch block in the center
         }
     }
 }

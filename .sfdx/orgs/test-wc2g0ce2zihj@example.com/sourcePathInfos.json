@@ -32,14 +32,14 @@
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520929891228,
             "changeTime": 1520929891228,
-            "contentHash": "05b1fb573a1da4bbe36bec53ff02f7d02f379417"
+            "contentHash": "05b1fb573a1da4bbe36bec53ff02f7d02f379417",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -75,118 +75,118 @@
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\settings\\Account.settings-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\settings\\Account.settings-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 231,
             "modifiedTime": 1520929891172,
             "changeTime": 1520929891172,
-            "contentHash": "a11a2d7a0ec59311bede37f429e1620bb533a4b7"
+            "contentHash": "a11a2d7a0ec59311bede37f429e1620bb533a4b7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\objects\\Account\\fields\\No_of_Stakeholder_Contacts__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\objects\\Account\\fields\\No_of_Stakeholder_Contacts__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 402,
             "modifiedTime": 1520929891181,
             "changeTime": 1520929891181,
-            "contentHash": "6cb50f859b6cf83818cce23b109368f3a832cca8"
+            "contentHash": "6cb50f859b6cf83818cce23b109368f3a832cca8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9774,
             "modifiedTime": 1520929891187,
             "changeTime": 1520929891187,
-            "contentHash": "a0ce071b634de8d2d159ff5343f241757d02cb31"
+            "contentHash": "a0ce071b634de8d2d159ff5343f241757d02cb31",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9726,
             "modifiedTime": 1520929891193,
             "changeTime": 1520929891193,
-            "contentHash": "8ba9224476091987f4e6c8da73fec62ac710e20d"
+            "contentHash": "8ba9224476091987f4e6c8da73fec62ac710e20d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9774,
             "modifiedTime": 1520929891200,
             "changeTime": 1520929891200,
-            "contentHash": "9f7b4f6ecfcbb6235fbfe217fcab937cf20cdf6e"
+            "contentHash": "9f7b4f6ecfcbb6235fbfe217fcab937cf20cdf6e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9726,
             "modifiedTime": 1520929891213,
             "changeTime": 1520929891213,
-            "contentHash": "e9c000339afc8e8c67878f5a8772d8d4da3850d2"
+            "contentHash": "e9c000339afc8e8c67878f5a8772d8d4da3850d2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\classes\\CS_AccountRelatedContactsTrigger_Test.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\classes\\CS_AccountRelatedContactsTrigger_Test.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1520929891216,
             "changeTime": 1520929891216,
-            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\classes\\CS_AccountRelatedContactsTrigger_Test.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\classes\\CS_AccountRelatedContactsTrigger_Test.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2949,
             "modifiedTime": 1520929891219,
             "changeTime": 1520929891219,
-            "contentHash": "c26053bfcdb2e35334c3b2b87a709e744cec6558"
+            "contentHash": "c26053bfcdb2e35334c3b2b87a709e744cec6558",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\triggers\\CS_AccountContactRelation.trigger-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\triggers\\CS_AccountContactRelation.trigger-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 178,
             "modifiedTime": 1520929891222,
             "changeTime": 1520929891222,
-            "contentHash": "11d1a6c6f3290c9f995ba98867a37b5a576fb6ce"
+            "contentHash": "11d1a6c6f3290c9f995ba98867a37b5a576fb6ce",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -196,166 +196,166 @@
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\triggers\\CS_AccountContactRelation.trigger",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1204,
-            "modifiedTime": 1520929891224,
-            "changeTime": 1520929891224,
-            "contentHash": "00a77d45a811eb82050b9b8233a53ef2e3d5696a"
+            "size": 1218,
+            "modifiedTime": 1520933079990,
+            "changeTime": 1520933079990,
+            "contentHash": "54961b70b62096ef0c372f28aa1b8f07137812cb"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5217,
             "modifiedTime": 1520929891229,
             "changeTime": 1520929891229,
-            "contentHash": "1526cd5de33a879a293dd6e1add119137154d9ac"
+            "contentHash": "1526cd5de33a879a293dd6e1add119137154d9ac",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17920,
             "modifiedTime": 1520929891242,
             "changeTime": 1520929891242,
-            "contentHash": "49688b1b89aa9a1a3a68d5ee26f61a07d348c12d"
+            "contentHash": "49688b1b89aa9a1a3a68d5ee26f61a07d348c12d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4877,
             "modifiedTime": 1520929891248,
             "changeTime": 1520929891248,
-            "contentHash": "022fbfb434b4c2b5c9a66cc0fc081913c0e51ace"
+            "contentHash": "022fbfb434b4c2b5c9a66cc0fc081913c0e51ace",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4881,
             "modifiedTime": 1520929891254,
             "changeTime": 1520929891254,
-            "contentHash": "be03620d824268b414dd855f1a350d7eeeb22657"
+            "contentHash": "be03620d824268b414dd855f1a350d7eeeb22657",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\settings",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\settings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520929891172,
             "changeTime": 1520929891172,
-            "contentHash": "0f0bd9abce0f1950f9e1fd5466ab1e7882f47cb6"
+            "contentHash": "0f0bd9abce0f1950f9e1fd5466ab1e7882f47cb6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520929891180,
             "changeTime": 1520929891180,
-            "contentHash": "a9a55bbf365ac9365aaa7445916e1c542189654d"
+            "contentHash": "a9a55bbf365ac9365aaa7445916e1c542189654d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520929891179,
             "changeTime": 1520929891179,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520929891179,
             "changeTime": 1520929891179,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520929891213,
             "changeTime": 1520929891213,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520929891218,
             "changeTime": 1520929891218,
-            "contentHash": "2532bcf01e14c4997f8035768185b87f68864264"
+            "contentHash": "2532bcf01e14c4997f8035768185b87f68864264",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\triggers",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\triggers",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520929891224,
             "changeTime": 1520929891224,
-            "contentHash": "699a71e26eb762213ff14dab021c1fa277955137"
+            "contentHash": "699a71e26eb762213ff14dab021c1fa277955137",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx-demos\\herokuci\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520929891254,
             "changeTime": 1520929891254,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
